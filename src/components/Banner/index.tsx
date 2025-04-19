@@ -50,7 +50,7 @@ const Banner = () => {
 
   return (
     <div
-      className={`relative h-[300px] w-full overflow-hidden rounded-3xl ${slides[currentSlide]?.backgorundColor} `}
+      className={`relative h-[300px] w-full overflow-hidden rounded-3xl ${slides[currentSlide]?.backgorundColor}`}
     >
       {/* Background Pattern */}
       {slides[currentSlide].bgPattern}

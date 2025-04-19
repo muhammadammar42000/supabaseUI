@@ -20,7 +20,7 @@ const menuItems = [
 
 const ProfileCard = () => {
   return (
-    <div className="w-[300px] rounded-2xl border border-gray-200 bg-white p-6 shadow-xl">
+    <div className="rounded-2xl border border-gray-200 bg-white p-6 shadow-xl">
       {/* Profile Header */}
       <div className="flex flex-col items-center">
         {/* Avatar with Online Status */}

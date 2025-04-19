@@ -43,7 +43,7 @@ const cardsData = [
 ];
 function RecommendedUsers() {
   return (
-    <div className="w-[80vw] p-10">
+    <div className="">
       <div className="flex  justify-between p-2">
         <p className="text-[24px] text-black font-medium">
           Recommended Users
